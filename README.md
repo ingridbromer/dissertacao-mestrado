@@ -9,8 +9,7 @@ Realiza o aumento de dados (data augmentation) de forma direcionada, com o objet
 
 3) treinamento.py
 Executa o treinamento de diferentes arquiteturas de redes neurais. Como saída, são gerados:
-
-Arquivos de modelo treinado (.pth)
-Métricas de desempenho
-Curvas ROC e Precision-Recall (PR)
-Matrizes de confusão
+  Arquivos de modelo treinado (.pth)
+  Métricas de desempenho
+  Curvas ROC e Precision-Recall (PR)
+  Matrizes de confusão
